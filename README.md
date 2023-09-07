@@ -1,4 +1,4 @@
-# Phone-Reservation-School-Project
+# Phone-Reservation
 Author: Connie Leung
 
 A school project for phone reservations with admin page
